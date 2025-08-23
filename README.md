@@ -43,7 +43,7 @@ A simple and modern web application for getting real-time weather and a 7-day fo
 1. **Clone the repository** or download the `.html` file:
 
    ```bash
-   git clone https://github.com/your-username/weather-forecasting-app.git
+   git clone [https://github.com/your-username/weather-forecasting-app.git](https://github.com/Praveen7-C/Weather-Forecasting-App.git)
    ```
 
 2. **Open the HTML file** in any modern browser:
